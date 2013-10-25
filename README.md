@@ -1,10 +1,11 @@
 HashTagSwoop
 ===============
 
+James Dagres
+
 This is the server side of the application. 
 The client side is located here:
 
-James Dagres
 DESCRIPTION:
 =============
 This application was originally meant to display the top hashtags from twitter, facebook and instagram. However,
